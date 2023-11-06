@@ -21,6 +21,9 @@ FIGHT,Captain Marvel,Thanos  // this input makes the 2 characters (Captain Marve
  DISPLAYSTATS //this fucntion display stats for all characters   
  QUIT // this inpout terminates the program (we always need this as the last input)
 
+BEST WAY TO TRY THIS PROGRAM IS BY INPUTTING THE SAMPLE INPUT AND SEE HOW IT ACTS     
+CHECK SAMPLE INPUT FILE     
+
  Download and have fun :) 
 
 
