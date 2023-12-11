@@ -52,8 +52,8 @@ List of Commands:
 - DISPLAYDC - displays all DC characters  
 - DISPLAYSTATS - display stats for all characters   
 - QUIT - terminates the program (we always need this as the last input)
-- FIGHT + 2 names - this input makes the 2 characters fight. 
----------------BATTLE RULES:   
+- FIGHT + 2 names - this input makes the 2 characters fight.      
+- - BATTLE RULES:   
 --------------------------------A character with superpowers will always win against an NPC    
 --------------------------------If both players are NPCs or if both players possess superpowers, we calculate the total attack ability of each   
 --------------------------------We add together the five individual statistics within the Stats object of the given character   
