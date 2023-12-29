@@ -36,9 +36,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. Download all 4 java files
+1. Download the src folder
 2. Run the program.
-3. (Optional) - run the sample file found on the Github project page
+3. (Optional) - run the sample 
 
 ### Running
 
